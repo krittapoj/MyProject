@@ -1,3 +1,2 @@
 # MyProject
-
-#Test
+ ที่ฝึกcode
